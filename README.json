@@ -2335,10 +2335,10 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-02-06T08:08:20Z",
+            "last_commit": "2026-02-07T20:54:01Z",
             "owner": "blueburn-cz",
             "repo": "BBMOD",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -3197,10 +3197,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:05:35.158Z",
+    "last_updated": "2026-02-08T04:34:53.526Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "source_repository": "v1nvn/enhansome-gamemaker",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome GameMaker with stars"
   }
 }
