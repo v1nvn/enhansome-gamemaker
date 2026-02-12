@@ -55,7 +55,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 35,648 | 🐛 1,900 | 🌐 C++ | 📅 2025-12-30 can be compiled for free.
+  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 35,663 | 🐛 1,902 | 🌐 C++ | 📅 2025-12-30 can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -66,7 +66,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 This includes data structures and file formats that do not fit into a more specific category.
 
 * [SNAP](https://github.com/JujuAdams/SNAP) ⭐ 95 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-01-19 - Easy data format saving and loading. Please note that newer versions of GameMaker contain `json_parse` and `json_stringify`. However, if you are converting csv, ini, xml, etc, you may find this very useful.
-* [OKColor](https://github.com/KeeVeeGames/OKColor.gml) ⭐ 48 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-01-18 - An okay color manager for implementing OKLab/OKLCH colors.
+* [OKColor](https://github.com/KeeVeeGames/OKColor.gml) ⭐ 49 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-01-18 - An okay color manager for implementing OKLab/OKLCH colors.
 * [GML-OOP](https://github.com/Mtax-Development/GML-OOP) ⭐ 32 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-01-21 - A constructor library for operating the primary functionalities of GameMaker.
 * [ForEach](https://github.com/KeeVeeGames/foreach.gml) ⭐ 26 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-10-13 - Adds a foreach implementation for arrays, ds\_lists, ds\_maps, ds\_stacks, ds\_queues, ds\_priorities and structs.
 * [Destructors](https://github.com/DatZach/Destructors) ⭐ 25 | 🐛 2 | 🌐 Yacc | 📅 2022-10-24 - Allows you to use ds\_\* types such as lists and maps inside of structs.
@@ -140,7 +140,7 @@ Custom timers, timelines, and task scheduling.
 * [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) ⭐ 31 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-02-10 - A tool to benchmark GML code.
 * [Seedpod](https://github.com/daikon-games/gm-seedpod) ⭐ 28 | 🐛 1 | 🌐 Game Maker Language | 📅 2023-07-18 - A collection of scripts to improve the GML programming experience.
 * [GMLodash](https://github.com/DatZach/GMLodash) ⭐ 24 | 🐛 1 | 🌐 Game Maker Language | 📅 2021-11-28 - Functional programming in GML.
-* [Figgy](https://github.com/glebtsereteli/Figgy) ⭐ 23 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-01-28 - Centralized and persistent live configs for seamless game tuning and balancing.
+* [Figgy](https://github.com/glebtsereteli/Figgy) ⭐ 23 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-02-11 - Centralized and persistent live configs for seamless game tuning and balancing.
 * [Canvas](https://github.com/tabularelf/Canvas) ⭐ 19 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-12-31 - Another great solution for surface management.
 * [Mathematical Scripts](https://github.com/adam-rumpf/game-maker-scripts) ⭐ 17 | 🐛 1 | 🌐 Game Maker Language | 📅 2023-06-12 - A collection of math scripts.
 * [Broadcast](https://github.com/JulianDicken/Broadcast) ⚠️ Archived - Event handling library.
@@ -373,7 +373,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Networking
 
-* [Warp](https://github.com/evolutionleo/Warp) ⭐ 142 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-22 - A feature-rich framework for multiplayer games, written in GameMaker and Node.js.
+* [Warp](https://github.com/evolutionleo/Warp) ⭐ 143 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-22 - A feature-rich framework for multiplayer games, written in GameMaker and Node.js.
 * [Patchwire-GM](https://github.com/gm-core/patchwire-gm) ⭐ 34 | 🐛 0 | 🌐 Yacc | 📅 2020-09-13 - The network library from gm-core if you want to use this implementation without the entire gm-core suite.
 * [MultiClient](https://github.com/tabularelf/MultiClient) ⭐ 29 | 🐛 1 | 🌐 Batchfile | 📅 2026-01-06 - Non-dll, multiple client launcher for network development.
 * [HTTP GML](https://github.com/Sidorakh/http.gml) ⭐ 17 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-02-09 - Recieve GET requests and upload files in GML.
@@ -503,7 +503,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,892 | 🐛 7 | 📅 2026-02-05 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,155 | 🐛 1 | 🌐 Markdown | 📅 2026-01-15.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,893 | 🐛 7 | 📅 2026-02-05 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,160 | 🐛 1 | 🌐 Markdown | 📅 2026-01-15.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
