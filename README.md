@@ -55,7 +55,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 35,689 | 🐛 1,889 | 🌐 C++ | 📅 2026-02-13 can be compiled for free.
+  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 35,699 | 🐛 1,890 | 🌐 C++ | 📅 2026-02-13 can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -205,7 +205,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## User Interface
 
-* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 395 | 🐛 28 | 🌐 Game Maker Language | 📅 2026-01-29 - Efficient multi-effects text renderer.
+* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 396 | 🐛 28 | 🌐 Game Maker Language | 📅 2026-01-29 - Efficient multi-effects text renderer.
 * [Chatterbox](https://github.com/JujuAdams/chatterbox) ⭐ 166 | 🐛 8 | 🌐 Game Maker Language | 📅 2026-02-04 - Narrative scripting tool.
 * [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2021-11-22 - An interactive dialogue editor for writers and programmers.
 * [Textboxy](https://github.com/glitchroy/textboxy) ⭐ 65 | 🐛 9 | 🌐 Game Maker Language | 📅 2023-03-05 - Simple textboxes.
@@ -343,7 +343,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## 3D
 
-* [BBMOD](https://github.com/blueburn-cz/BBMOD) ⭐ 112 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-02-14 - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
+* [BBMOD](https://github.com/blueburn-cz/BBMOD) ⭐ 112 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-02-15 - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
 * [3D-2D](https://github.com/YoYoGames/3D-2D) ⭐ 48 | 🐛 2 | 🌐 Game Maker Language | 📅 2023-03-27 - Official tool to turn 3D models into 2D sprites.
 * [dotobj](https://github.com/JujuAdams/dotobj) ⭐ 45 | 🐛 3 | 🌐 Game Maker Language | 📅 2025-10-12 - Lightweight .obj/.mtl 3D model loader written in native GML.
 * [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) ⭐ 42 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-12-24 - Import/Export tools to load vertex buffer data out of Blender and into GMS.
@@ -503,7 +503,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,895 | 🐛 7 | 📅 2026-02-05 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,173 | 🐛 1 | 🌐 Markdown | 📅 2026-01-15.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,896 | 🐛 7 | 📅 2026-02-05 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,174 | 🐛 1 | 🌐 Markdown | 📅 2026-01-15.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
