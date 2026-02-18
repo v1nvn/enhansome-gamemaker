@@ -55,7 +55,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 35,711 | 🐛 1,889 | 🌐 C++ | 📅 2026-02-13 can be compiled for free.
+  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 35,724 | 🐛 1,890 | 🌐 C++ | 📅 2026-02-13 can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -347,7 +347,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [3D-2D](https://github.com/YoYoGames/3D-2D) ⭐ 48 | 🐛 2 | 🌐 Game Maker Language | 📅 2023-03-27 - Official tool to turn 3D models into 2D sprites.
 * [dotobj](https://github.com/JujuAdams/dotobj) ⭐ 45 | 🐛 3 | 🌐 Game Maker Language | 📅 2025-10-12 - Lightweight .obj/.mtl 3D model loader written in native GML.
 * [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) ⭐ 42 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-12-24 - Import/Export tools to load vertex buffer data out of Blender and into GMS.
-* [Bonk](https://github.com/JujuAdams/Bonk) ⭐ 12 | 🐛 12 | 🌐 Game Maker Language | 📅 2026-01-31 - Another cool collision library handling a majority of collision shape use-cases.
+* [Bonk](https://github.com/JujuAdams/Bonk) ⭐ 12 | 🐛 12 | 🌐 Game Maker Language | 📅 2026-02-17 - Another cool collision library handling a majority of collision shape use-cases.
 * [Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) ⭐ 10 | 🐛 0 | 🌐 Yacc | 📅 2021-06-25 - Source for a GameMaker 3D game.
 * [Bronze Box](https://github.com/cicadian/Bronze-Box) ⭐ 4 | 🐛 0 | 🌐 Yacc | 📅 2022-07-23 - Example of how to build 3D world models from a 2D grid.
 * [ColMesh](https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/) - 3D Collision Library from TheSnidr.
@@ -400,7 +400,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Camera
 
-* [STANNcam](https://github.com/jack27121/STANNcam) ⭐ 43 | 🐛 15 | 🌐 Game Maker Language | 📅 2026-02-16 - Camera and resolution manager.
+* [STANNcam](https://github.com/jack27121/STANNcam) ⭐ 43 | 🐛 11 | 🌐 Game Maker Language | 📅 2026-02-17 - Camera and resolution manager.
 * [Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) ⭐ 38 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-12-10 - An example of pixel-perfect yet smooth camera.
 * [GameMaker Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pixelated Pope's guide on GameMaker's camera system. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 * [Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GameMaker.
@@ -435,7 +435,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Useful Extras
 
 * [OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) ⭐ 115 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-12-12 - Accurate framework to make classic Sonic games.
-* [Dracula Theme](https://github.com/dracula/gamemaker-studio) ⭐ 90 | 🐛 5 | 📅 2025-09-21 - A dark theme for the IDE.
+* [Dracula Theme](https://github.com/dracula/gamemaker-studio) ⭐ 91 | 🐛 5 | 📅 2025-09-21 - A dark theme for the IDE.
 * [CleanShapes](https://github.com/JujuAdams/Clean-Shapes) ⭐ 45 | 🐛 9 | 🌐 Game Maker Language | 📅 2026-02-03 - Antialiased primitives library for GameMaker.
 * [Starfield Generator](https://github.com/PixelProphecy/gml_starfield_generator) ⭐ 31 | 🐛 1 | 🌐 Game Maker Language | 📅 2022-06-13 - A script to generate starfields in GameMaker's GML language.
 * [Gruvbox Theme](https://github.com/heygleeson/Gruvbox-GMTheme) ⭐ 15 | 🐛 0 | 📅 2022-08-12 - A retro groove theme for the IDE.
@@ -503,7 +503,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,896 | 🐛 7 | 📅 2026-02-05 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,176 | 🐛 1 | 🌐 Markdown | 📅 2026-01-15.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,895 | 🐛 7 | 📅 2026-02-05 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,180 | 🐛 1 | 🌐 Markdown | 📅 2026-01-15.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
