@@ -55,7 +55,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 35,753 | 🐛 1,891 | 🌐 C++ | 📅 2026-02-13 can be compiled for free.
+  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 35,771 | 🐛 1,892 | 🌐 C++ | 📅 2026-02-13 can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -165,7 +165,7 @@ Custom timers, timelines, and task scheduling.
 
 Things that work with project files or GameMaker itself rather than being something that's used in-game.
 
-* [GMEdit](https://github.com/YellowAfterlife/GMEdit) ⭐ 358 | 🐛 24 | 🌐 JavaScript | 📅 2026-01-25 - Code editor to use in conjunction with GameMaker.
+* [GMEdit](https://github.com/YellowAfterlife/GMEdit) ⭐ 358 | 🐛 20 | 🌐 JavaScript | 📅 2026-02-20 - Code editor to use in conjunction with GameMaker.
 * [Rubber](https://github.com/GameMakerDiscord/Rubber) ⭐ 33 | 🐛 5 | 🌐 TypeScript | 📅 2021-02-20 - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
 * [vim-GML](https://github.com/JafarDakhan/vim-gml) ⭐ 14 | 🐛 0 | 🌐 Vim Script | 📅 2022-10-04 - High quality Vim syntax highlighting for GameMaker.
 * [GMLC](https://github.com/tinkerer-red/GMLC) ⭐ 9 | 🐛 57 | 🌐 Game Maker Language | 📅 2025-12-24 - Runtime compiler and interpreter to load, compile, and execute GML code at runtime.
@@ -205,7 +205,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## User Interface
 
-* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 396 | 🐛 29 | 🌐 Game Maker Language | 📅 2026-01-29 - Efficient multi-effects text renderer.
+* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 396 | 🐛 30 | 🌐 Game Maker Language | 📅 2026-01-29 - Efficient multi-effects text renderer.
 * [Chatterbox](https://github.com/JujuAdams/chatterbox) ⭐ 166 | 🐛 8 | 🌐 Game Maker Language | 📅 2026-02-04 - Narrative scripting tool.
 * [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2021-11-22 - An interactive dialogue editor for writers and programmers.
 * [Textboxy](https://github.com/glitchroy/textboxy) ⭐ 65 | 🐛 9 | 🌐 Game Maker Language | 📅 2023-03-05 - Simple textboxes.
@@ -504,7 +504,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,896 | 🐛 7 | 📅 2026-02-05 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,186 | 🐛 1 | 🌐 Markdown | 📅 2026-01-15.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,896 | 🐛 7 | 📅 2026-02-05 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,191 | 🐛 1 | 🌐 Markdown | 📅 2026-01-15.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
