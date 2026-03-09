@@ -55,7 +55,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 35,987 | 🐛 1,902 | 🌐 C++ | 📅 2026-03-06 can be compiled for free.
+  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 36,004 | 🐛 1,903 | 🌐 C++ | 📅 2026-03-06 can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -210,7 +210,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [Chatterbox](https://github.com/JujuAdams/chatterbox) ⭐ 166 | 🐛 8 | 🌐 Game Maker Language | 📅 2026-02-04 - Narrative scripting tool.
 * [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2021-11-22 - An interactive dialogue editor for writers and programmers.
 * [Textboxy](https://github.com/glitchroy/textboxy) ⭐ 65 | 🐛 9 | 🌐 Game Maker Language | 📅 2023-03-05 - Simple textboxes.
-* [YUI](https://github.com/shdwcat/YUI) ⭐ 63 | 🐛 40 | 🌐 Game Maker Language | 📅 2026-01-06 - A UI system with live reloading, template system, data binding, and a drag and drop feature.
+* [YUI](https://github.com/shdwcat/YUI) ⭐ 63 | 🐛 40 | 🌐 Game Maker Language | 📅 2026-03-08 - A UI system with live reloading, template system, data binding, and a drag and drop feature.
 * [NotificationSystem](https://github.com/babaganosch/NotificationSystem) ⭐ 44 | 🐛 0 | 🌐 Yacc | 📅 2023-12-28 - Notifications in GameMaker.
 * [Emu UI](https://github.com/DragoniteSpam/Emu) ⭐ 41 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-02-18 - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 * [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 32 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-02-16 - Flexpanel system for modern, touch-friendly interfaces.
@@ -258,7 +258,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 * [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) ⭐ 153 | 🐛 28 | 🌐 TypeScript | 📅 2026-01-11 - Utilities for creating art asset pipelines.
 * [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) ⭐ 36 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-12-31 - Pixel art upscaling shader for awkward resolutions for GameMaker.
-* [Collage](https://github.com/tabularelf/Collage) ⭐ 29 | 🐛 7 | 🌐 Game Maker Language | 📅 2026-03-06 - Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.
+* [Collage](https://github.com/tabularelf/Collage) ⭐ 29 | 🐛 7 | 🌐 Game Maker Language | 📅 2026-03-08 - Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.
 * [Disarm](https://github.com/NuxiiGit/disarm) ⭐ 24 | 🐛 3 | 🌐 Game Maker Language | 📅 2023-07-02 - A spriter skeletal animation at runtime.
 * [AESnips](https://github.com/angelwire/AESnips) ⭐ 9 | 🐛 1 | 📅 2025-08-04 - A sprite playback system.
 * [GM Animate](https://github.com/KormexGit/GM-Animate) ⭐ 8 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-01-31 - Sprite animation manager.
@@ -301,7 +301,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Particles
 
-* [Pulse](https://github.com/Delfos1/Pulse) ⭐ 23 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-12-14 - A library to create more complex particle emitters, systems and particles.
+* [Pulse](https://github.com/Delfos1/Pulse) ⭐ 24 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-12-14 - A library to create more complex particle emitters, systems and particles.
 * [Burrn](https://github.com/FoxyOfJungle/Burrn) ⚠️ Archived - Built-in particle system that uses the particle asset built into the IDE.
 * [Particles Wrapper](https://github.com/GamemakerCasts/particles) ⭐ 7 | 🐛 0 | 🌐 Yacc | 📅 2022-08-21 - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
 * [Particle Editor](https://gamemakercasts.itch.io/particle-editor) - Create particles with an easy UI and export into GML code.
