@@ -55,7 +55,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 36,004 | 🐛 1,903 | 🌐 C++ | 📅 2026-03-06 can be compiled for free.
+  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 36,020 | 🐛 1,900 | 🌐 C++ | 📅 2026-03-09 can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -71,7 +71,7 @@ This includes data structures and file formats that do not fit into a more speci
 * [ForEach](https://github.com/KeeVeeGames/foreach.gml) ⭐ 26 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-10-13 - Adds a foreach implementation for arrays, ds\_lists, ds\_maps, ds\_stacks, ds\_queues, ds\_priorities and structs.
 * [Destructors](https://github.com/DatZach/Destructors) ⭐ 25 | 🐛 2 | 🌐 Yacc | 📅 2022-10-24 - Allows you to use ds\_\* types such as lists and maps inside of structs.
 * [Promises](https://github.com/YAL-GameMaker/Promise.gml) ⭐ 25 | 🐛 0 | 🌐 Game Maker Language | 📅 2023-07-21 - An adaptation of JavaScript Promises.
-* [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) ⭐ 18 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-12-03 - The most complete list class. Garbage collected, fast sort function, \[] accessor and referencing as an array.
+* [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) ⭐ 19 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-12-03 - The most complete list class. Garbage collected, fast sort function, \[] accessor and referencing as an array.
 * [Exception](https://github.com/KeeVeeGames/Exception.gml) ⭐ 17 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-03-29 - A base class for custom exceptions.
 * [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) ⭐ 16 | 🐛 0 | 🌐 Yacc | 📅 2024-05-08 - Another project that adds OOP functionality to GameMaker.
 * [Cottonwool](https://github.com/JujuAdams/Cottonwool) ⚠️ Archived - Safe surfaces without memory leaks.
@@ -140,7 +140,7 @@ Custom timers, timelines, and task scheduling.
 * [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) ⭐ 31 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-02-10 - A tool to benchmark GML code.
 * [Seedpod](https://github.com/daikon-games/gm-seedpod) ⭐ 28 | 🐛 1 | 🌐 Game Maker Language | 📅 2023-07-18 - A collection of scripts to improve the GML programming experience.
 * [GMLodash](https://github.com/DatZach/GMLodash) ⭐ 24 | 🐛 1 | 🌐 Game Maker Language | 📅 2021-11-28 - Functional programming in GML.
-* [Figgy](https://github.com/glebtsereteli/Figgy) ⭐ 23 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-02-11 - Centralized and persistent live configs for seamless game tuning and balancing.
+* [Figgy](https://github.com/glebtsereteli/Figgy) ⭐ 23 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-03-09 - Centralized and persistent live configs for seamless game tuning and balancing.
 * [Canvas](https://github.com/tabularelf/Canvas) ⭐ 19 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-02-21 - Another great solution for surface management.
 * [Mathematical Scripts](https://github.com/adam-rumpf/game-maker-scripts) ⭐ 17 | 🐛 1 | 🌐 Game Maker Language | 📅 2023-06-12 - A collection of math scripts.
 * [Broadcast](https://github.com/JulianDicken/Broadcast) ⚠️ Archived - Event handling library.
@@ -206,7 +206,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## User Interface
 
-* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 396 | 🐛 26 | 🌐 Game Maker Language | 📅 2026-02-22 - Efficient multi-effects text renderer.
+* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 397 | 🐛 26 | 🌐 Game Maker Language | 📅 2026-02-22 - Efficient multi-effects text renderer.
 * [Chatterbox](https://github.com/JujuAdams/chatterbox) ⭐ 166 | 🐛 8 | 🌐 Game Maker Language | 📅 2026-02-04 - Narrative scripting tool.
 * [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2021-11-22 - An interactive dialogue editor for writers and programmers.
 * [Textboxy](https://github.com/glitchroy/textboxy) ⭐ 65 | 🐛 9 | 🌐 Game Maker Language | 📅 2023-03-05 - Simple textboxes.
@@ -216,7 +216,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 32 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-02-16 - Flexpanel system for modern, touch-friendly interfaces.
 * [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) ⭐ 29 | 🐛 21 | 🌐 Game Maker Language | 📅 2021-07-20 - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
 * [Guido](https://github.com/JujuAdams/Guido) ⚠️ Archived - Simple immediate mode GUI framework.
-* [GMUI](https://github.com/erkan612/GMUI) ⭐ 19 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-02-13 - Immediate mode GameMaker UI library, tons of UI components.
+* [GMUI](https://github.com/erkan612/GMUI) ⭐ 19 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-02-13 - Immediate mode GameMaker UI library, tons of UI components.
 * [GMS2-UI-Library](https://github.com/nabilatsoulcade/GMS2-UI-Library) ⭐ 17 | 🐛 0 | 🌐 Yacc | 📅 2018-01-11 - A Library Full of useful scripts for implementing your UI designs in GameMaker.
 * [SimpleUI](https://github.com/evolutionleo/SimpleUI) ⭐ 9 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-05-07 - Minimalistic UI framework.
 * [zitk](https://github.com/TandyRum1024/zitk) ⭐ 6 | 🐛 0 | 🌐 Yacc | 📅 2022-06-26 - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
@@ -245,7 +245,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Physics
 
-* [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) ⭐ 41 | 🐛 2 | 🌐 Yacc | 📅 2022-10-28 - A robust, pixel-perfect collision engine.
+* [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) ⭐ 42 | 🐛 2 | 🌐 Yacc | 📅 2022-10-28 - A robust, pixel-perfect collision engine.
 * [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) ⭐ 11 | 🐛 0 | 🌐 Yacc | 📅 2021-06-10 - Verlet integration example used for visuals.
 * [Inverse Kinematics Extension](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) ⭐ 3 | 🐛 0 | 📅 2017-12-26 - A library for working with inverse kinematics.
 * [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
@@ -289,7 +289,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Levels
 
-* [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) ⭐ 106 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-02-14 - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
+* [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) ⭐ 106 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-03-10 - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
 * [LDtkParser](https://github.com/evolutionleo/LDtkParser) ⭐ 61 | 🐛 2 | 🌐 Game Maker Language | 📅 2025-08-14 - Advanced LDtk Importer.
 * [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) ⭐ 55 | 🐛 2 | 🌐 Game Maker Language | 📅 2018-03-03 - A random level generation example (similar to Nuclear Throne) using GameMaker.
 * [Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) ⭐ 31 | 🐛 2 | 🌐 Game Maker Language | 📅 2023-04-17 - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
@@ -505,7 +505,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,911 | 🐛 7 | 📅 2026-03-04 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,257 | 🐛 2 | 🌐 Markdown | 📅 2026-02-25.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,912 | 🐛 7 | 📅 2026-03-04 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,262 | 🐛 2 | 🌐 Markdown | 📅 2026-02-25.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
