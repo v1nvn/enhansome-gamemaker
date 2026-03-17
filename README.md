@@ -2,7 +2,7 @@
     <a href="https://gamemaker.io/"><img src="https://github.com/bytecauldron/awesome-gamemaker/raw/main/images/banner.png" /></a>
 </p>
 
-# Awesome GameMaker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made with GameMaker](https://img.shields.io/badge/Made%20with-GameMaker-000000.svg?style=flat\&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://www.yoyogames.com/gamemaker) [![Links](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml/badge.svg)](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml) ⭐ 447 | 🐛 0 | 📅 2026-02-22 with stars
+# Awesome GameMaker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made with GameMaker](https://img.shields.io/badge/Made%20with-GameMaker-000000.svg?style=flat\&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://www.yoyogames.com/gamemaker) [![Links](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml/badge.svg)](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml) ⭐ 448 | 🐛 0 | 📅 2026-02-22 with stars
 
 > A curated list of awesome libraries, snippets, guides, and projects for GameMaker. 😎
 
@@ -55,7 +55,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 36,102 | 🐛 1,906 | 🌐 C++ | 📅 2026-03-12 can be compiled for free.
+  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 36,104 | 🐛 1,905 | 🌐 C++ | 📅 2026-03-16 can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -269,7 +269,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Audio
 
 * [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) ⭐ 72 | 🐛 1 | 🌐 HTML | 📅 2026-03-06 - Official support for FMOD in GameMaker.
-* [Vinyl](https://github.com/JujuAdams/Vinyl) ⭐ 56 | 🐛 6 | 🌐 Game Maker Language | 📅 2026-03-14 - Live updating audio system.
+* [Vinyl](https://github.com/JujuAdams/Vinyl) ⭐ 56 | 🐛 6 | 🌐 Game Maker Language | 📅 2026-03-16 - Live updating audio system.
 * [Bard](https://github.com/gl326/bard-audio) ⭐ 40 | 🐛 2 | 🌐 Game Maker Language | 📅 2024-09-16 - An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
 * [FML](https://github.com/Nikkilae/fml) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-03-08 - GameMaker bindings for the FMOD Studio API.
 * [wavload](https://github.com/nkrapivin/wavload) ⭐ 7 | 🐛 0 | 🌐 NSIS | 📅 2020-10-05 - Demonstrates how to externally load .wav files.
@@ -350,7 +350,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2026-03-04 - Import/Export tools to load vertex buffer data out of Blender and into GMS.
 * [Bonk](https://github.com/JujuAdams/Bonk) ⭐ 12 | 🐛 12 | 🌐 Game Maker Language | 📅 2026-02-17 - Another cool collision library handling a majority of collision shape use-cases.
 * [Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) ⭐ 10 | 🐛 0 | 🌐 Yacc | 📅 2021-06-25 - Source for a GameMaker 3D game.
-* [GMFlux](https://github.com/Fanatrick/GMFlux) ⭐ 9 | 🐛 1 | 🌐 GLSL | 📅 2022-11-08 - Heightfield fluid simulation solver.
+* [GMFlux](https://github.com/Fanatrick/GMFlux) ⭐ 10 | 🐛 1 | 🌐 GLSL | 📅 2022-11-08 - Heightfield fluid simulation solver.
 * [Bronze Box](https://github.com/cicadian/Bronze-Box) ⭐ 4 | 🐛 0 | 🌐 Yacc | 📅 2022-07-23 - Example of how to build 3D world models from a 2D grid.
 * [ColMesh](https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/) - 3D Collision Library from TheSnidr.
 * [BSP 4 GMS](https://cdlegasse.itch.io/ozarq-bsp-4-gms) - Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on.
@@ -444,7 +444,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [Animated Flag](https://github.com/Grisgram/gml-animated-flag) ⭐ 13 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-05-30 - Vertex-animated flag.
 * [Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) ⭐ 13 | 🐛 0 | 🌐 Yacc | 📅 2021-05-03 - Bullet hell engine.
 * [GameMaker Repo Badges](https://github.com/matthiaszarzecki/MadeWithGameMakerStudioBadges) ⭐ 13 | 🐛 0 | 📅 2025-06-13 - Fancy badges to add to your README files.
-* [Tome](https://github.com/chesrowe/Tome/) ⭐ 11 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-03-12 - Automatically generate documentation sites from GameMaker projects.
+* [Tome](https://github.com/chesrowe/Tome/) ⭐ 11 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-03-16 - Automatically generate documentation sites from GameMaker projects.
 * [Piano example](https://github.com/gmclan-org/piano_example) ⭐ 8 | 🐛 0 | 🌐 Game Maker Language | 📅 2023-02-17 - Example of playing intrument notes by changing pitch, using only one audio file.
 * [Pause example](https://github.com/gmclan-org/pause_no_surface) ⭐ 4 | 🐛 0 | 🌐 Game Maker Language | 📅 2021-09-21 - Simple example of a pause screen without using surfaces.
 * [Compatibility scripts](https://github.com/gmclan-org/compatibility-scripts) ⭐ 2 | 🐛 0 | 🌐 Game Maker Language | 📅 2022-04-11 - Scripts that are used by GM when importing GM:S 1.4 projects, taken directly from runtime files.
@@ -505,7 +505,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,917 | 🐛 7 | 📅 2026-03-04 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,289 | 🐛 3 | 🌐 Markdown | 📅 2026-02-25.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,917 | 🐛 8 | 📅 2026-03-04 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,297 | 🐛 3 | 🌐 Markdown | 📅 2026-03-16.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -513,7 +513,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Contributing
 
-Have something awesome to share? Check out the [Contributing Guidelines](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md) ⭐ 447 | 🐛 0 | 📅 2026-02-22.
+Have something awesome to share? Check out the [Contributing Guidelines](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md) ⭐ 448 | 🐛 0 | 📅 2026-02-22.
 
 ## GameMaker Keybindings
 
