@@ -2330,7 +2330,7 @@
             "last_commit": "2023-03-27T07:34:53Z",
             "owner": "YoYoGames",
             "repo": "3D-2D",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -3210,7 +3210,7 @@
             "last_commit": "2026-03-21T00:45:34Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 2923
+            "stars": 2924
           }
         }
       ],
@@ -3228,7 +3228,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-25T04:23:39.099Z",
+    "last_updated": "2026-03-26T04:35:00.954Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "source_repository": "v1nvn/enhansome-gamemaker",
     "source_repository_description": null,
