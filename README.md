@@ -55,7 +55,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 36,694 | 🐛 1,927 | 🌐 C++ | 📅 2026-04-21 can be compiled for free.
+  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 36,710 | 🐛 1,927 | 🌐 C++ | 📅 2026-04-21 can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -208,9 +208,9 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## User Interface
 
-* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 407 | 🐛 27 | 🌐 Game Maker Language | 📅 2026-03-30 - Efficient multi-effects text renderer.
+* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 408 | 🐛 28 | 🌐 Game Maker Language | 📅 2026-03-30 - Efficient multi-effects text renderer.
 * [Chatterbox](https://github.com/JujuAdams/chatterbox) ⭐ 166 | 🐛 9 | 🌐 Game Maker Language | 📅 2026-03-21 - Narrative scripting tool.
-* [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 99 | 🐛 9 | 🌐 JavaScript | 📅 2026-04-22 - An interactive dialogue editor for writers and programmers.
+* [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 102 | 🐛 9 | 🌐 JavaScript | 📅 2026-04-22 - An interactive dialogue editor for writers and programmers.
 * [Textboxy](https://github.com/glitchroy/textboxy) ⭐ 65 | 🐛 9 | 🌐 Game Maker Language | 📅 2023-03-05 - Simple textboxes.
 * [YUI](https://github.com/shdwcat/YUI) ⭐ 64 | 🐛 40 | 🌐 Game Maker Language | 📅 2026-03-15 - A UI system with live reloading, template system, data binding, and a drag and drop feature.
 * [NotificationSystem](https://github.com/babaganosch/NotificationSystem) ⭐ 44 | 🐛 0 | 🌐 Yacc | 📅 2023-12-28 - Notifications in GameMaker.
@@ -320,7 +320,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 * [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) ⭐ 24 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-10-16 - Outline shader.
 * [Bokeh Blur](https://github.com/XorDev/Bokeh/wiki) ⭐ 18 | 🐛 0 | 🌐 GLSL | 📅 2024-03-02 - Extension of the 1PassBlur which provides a different look. Similar to a real lens blur. Although it's much slower than 1Pass or Dual-Kawase.
-* [Chameleon](https://github.com/Lojemiru/Chameleon) ⭐ 15 | 🐛 1 | 🌐 Yacc | 📅 2022-10-28 - Palette Swapper.
+* [Chameleon](https://github.com/Lojemiru/Chameleon) ⭐ 16 | 🐛 1 | 🌐 Yacc | 📅 2022-10-28 - Palette Swapper.
 * [Xpanda](https://github.com/GameMakerDiscord/Xpanda) ⭐ 15 | 🐛 1 | 🌐 GLSL | 📅 2025-12-28 - Include code from external files in your shaders.
 * [1PassBlur](https://github.com/XorDev/1PassBlur/wiki) ⭐ 13 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-01-15 - Blur Shader with adjustable radius.
 * [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) ⭐ 13 | 🐛 0 | 🌐 Game Maker Language | 📅 2022-05-18 - Sampled pixels on a Voronoi diagram.
@@ -404,7 +404,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Camera
 
-* [STANNcam](https://github.com/jack27121/STANNcam) ⭐ 43 | 🐛 13 | 🌐 Game Maker Language | 📅 2026-03-29 - Camera and resolution manager.
+* [STANNcam](https://github.com/jack27121/STANNcam) ⭐ 43 | 🐛 13 | 🌐 Game Maker Language | 📅 2026-04-26 - Camera and resolution manager.
 * [Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) ⭐ 38 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-12-10 - An example of pixel-perfect yet smooth camera.
 * [GameMaker Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pixelated Pope's guide on GameMaker's camera system. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 * [Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GameMaker.
@@ -507,7 +507,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,967 | 🐛 8 | 📅 2026-03-21 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,530 | 🐛 4 | 🌐 Markdown | 📅 2026-04-09.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,969 | 🐛 8 | 📅 2026-03-21 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,537 | 🐛 4 | 🌐 Markdown | 📅 2026-04-09.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
