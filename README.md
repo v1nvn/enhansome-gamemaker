@@ -55,7 +55,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 36,710 | 🐛 1,927 | 🌐 C++ | 📅 2026-04-21 can be compiled for free.
+  * [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 36,723 | 🐛 1,929 | 🌐 C++ | 📅 2026-04-21 can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -123,7 +123,7 @@ Custom timers, timelines, and task scheduling.
 * [GMTimeLine](https://github.com/TimVN/GMTimeLine) ⭐ 7 | 🐛 0 | 🌐 Yacc | 📅 2022-11-03 - A pure code alternative to GameMaker timelines.
 * [fuwafuwa](https://github.com/kemonologic/fuwafuwa) ⭐ 6 | 🐛 10 | 🌐 Game Maker Language | 📅 2022-07-28 - Easy-to-use timer system.
 * [Stopwatch](https://github.com/Lojemiru/Stopwatch) ⭐ 4 | 🐛 0 | 🌐 Yacc | 📅 2022-10-28 - GameMaker alarm replacement.
-* [Agenda](https://github.com/benal20/Agenda.gml) ⭐ 4 | 🐛 2 | 🌐 Yacc | 📅 2023-07-01 - Schedule and delay the execution of callbacks.
+* [Agenda](https://github.com/benal20/Agenda.gml) ⭐ 4 | 🐛 2 | 🌐 Yacc | 📅 2026-04-27 - Schedule and delay the execution of callbacks.
 * [FrogAlarm](https://github.com/colmeye/FrogAlarms) ⭐ 3 | 🐛 0 | 🌐 Game Maker Language | 📅 2022-03-26 - Another easy alternative to GameMaker alarms.
 * [Timer](https://github.com/nommiin/Timers) ⭐ 3 | 🐛 0 | 🌐 Yacc | 📅 2020-04-24 - Timer methods based on setTimeout and setInterval from JS.
 * [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
@@ -208,13 +208,13 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## User Interface
 
-* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 408 | 🐛 28 | 🌐 Game Maker Language | 📅 2026-03-30 - Efficient multi-effects text renderer.
+* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 407 | 🐛 27 | 🌐 Game Maker Language | 📅 2026-03-30 - Efficient multi-effects text renderer.
 * [Chatterbox](https://github.com/JujuAdams/chatterbox) ⭐ 166 | 🐛 9 | 🌐 Game Maker Language | 📅 2026-03-21 - Narrative scripting tool.
 * [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 102 | 🐛 9 | 🌐 JavaScript | 📅 2026-04-22 - An interactive dialogue editor for writers and programmers.
 * [Textboxy](https://github.com/glitchroy/textboxy) ⭐ 65 | 🐛 9 | 🌐 Game Maker Language | 📅 2023-03-05 - Simple textboxes.
 * [YUI](https://github.com/shdwcat/YUI) ⭐ 64 | 🐛 40 | 🌐 Game Maker Language | 📅 2026-03-15 - A UI system with live reloading, template system, data binding, and a drag and drop feature.
 * [NotificationSystem](https://github.com/babaganosch/NotificationSystem) ⭐ 44 | 🐛 0 | 🌐 Yacc | 📅 2023-12-28 - Notifications in GameMaker.
-* [Emu UI](https://github.com/DragoniteSpam/Emu) ⭐ 41 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-02-18 - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
+* [Emu UI](https://github.com/DragoniteSpam/Emu) ⭐ 40 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-02-18 - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 * [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 35 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-03-29 - Flexpanel system for modern, touch-friendly interfaces.
 * [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) ⭐ 29 | 🐛 21 | 🌐 Game Maker Language | 📅 2021-07-20 - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
 * [Guido](https://github.com/JujuAdams/Guido) ⚠️ Archived - Simple immediate mode GUI framework.
@@ -346,7 +346,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## 3D
 
-* [BBMOD](https://github.com/blueburn-cz/BBMOD) ⭐ 115 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-04-21 - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
+* [BBMOD](https://github.com/blueburn-cz/BBMOD) ⭐ 115 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-04-26 - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
 * [3D-2D](https://github.com/YoYoGames/3D-2D) ⭐ 49 | 🐛 2 | 🌐 Game Maker Language | 📅 2023-03-27 - Official tool to turn 3D models into 2D sprites.
 * [dotobj](https://github.com/JujuAdams/dotobj) ⭐ 45 | 🐛 3 | 🌐 Game Maker Language | 📅 2025-10-12 - Lightweight .obj/.mtl 3D model loader written in native GML.
 * [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2026-03-04 - Import/Export tools to load vertex buffer data out of Blender and into GMS.
@@ -507,7 +507,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,969 | 🐛 8 | 📅 2026-03-21 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,537 | 🐛 4 | 🌐 Markdown | 📅 2026-04-09.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,969 | 🐛 8 | 📅 2026-03-21 or [MagicTools](https://github.com/ellisonleao/magictools#readme) ⭐ 16,543 | 🐛 4 | 🌐 Markdown | 📅 2026-04-09.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
