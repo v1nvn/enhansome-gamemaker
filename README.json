@@ -824,7 +824,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2025-11-20T01:24:09Z",
+            "last_commit": "2026-05-09T01:19:04Z",
             "owner": "katsaii",
             "repo": "catspeak-lang",
             "stars": 124
@@ -1496,7 +1496,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-07T09:24:30Z",
+            "last_commit": "2026-05-08T21:54:45Z",
             "owner": "JujuAdams",
             "repo": "Bento",
             "stars": 51
@@ -1541,7 +1541,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-06T04:50:55Z",
+            "last_commit": "2026-05-08T18:15:37Z",
             "owner": "tabularelf",
             "repo": "lexicon",
             "stars": 49
@@ -2379,7 +2379,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-05T22:22:06Z",
+            "last_commit": "2026-05-09T03:31:17Z",
             "owner": "blueburncz",
             "repo": "BBMOD",
             "stars": 116
@@ -3267,7 +3267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:55:34.892Z",
+    "last_updated": "2026-05-09T05:23:51.839Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "source_repository": "v1nvn/enhansome-gamemaker",
     "source_repository_description": null,
