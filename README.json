@@ -52,7 +52,7 @@
             "last_commit": "2026-03-14T14:03:35Z",
             "owner": "JujuAdams",
             "repo": "SNAP",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -118,19 +118,6 @@
             "owner": "daikon-games",
             "repo": "gm-stream",
             "stars": 8
-          }
-        },
-        {
-          "children": [],
-          "description": "An adaptation of JavaScript Promises.",
-          "title": "Promises",
-          "repo_info": {
-            "archived": false,
-            "language": "Game Maker Language",
-            "last_commit": "2023-07-21T11:42:09Z",
-            "owner": "YAL-GameMaker",
-            "repo": "Promise.gml",
-            "stars": 25
           }
         },
         {
@@ -555,6 +542,77 @@
       "items": [
         {
           "children": [],
+          "description": "Asynchronous functions for GameMaker.",
+          "title": "Coroutines",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-06-29T13:00:27Z",
+            "owner": "JujuAdams",
+            "repo": "Coroutines",
+            "stars": 84
+          }
+        },
+        {
+          "children": [],
+          "description": "Simulated threads for GameMaker.",
+          "title": "SimThreads",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-05-07T00:56:34Z",
+            "owner": "tabularelf",
+            "repo": "SimThreads",
+            "stars": 15
+          }
+        },
+        {
+          "children": [],
+          "description": "A proof of concept for multiprocessing in GameMaker.",
+          "title": "MultiProcessing",
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2023-11-06T21:12:04Z",
+            "owner": "tinkerer-red",
+            "repo": "MultiProcessing",
+            "stars": 2
+          }
+        },
+        {
+          "children": [],
+          "description": "An adaptation of JavaScript Promises.",
+          "title": "Promises",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2023-07-21T11:42:09Z",
+            "owner": "YAL-GameMaker",
+            "repo": "Promise.gml",
+            "stars": 25
+          }
+        },
+        {
+          "children": [],
+          "description": "Another JS-style promise library.",
+          "title": "GML Promise",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2025-11-27T16:35:17Z",
+            "owner": "tinkerer-red",
+            "repo": "GML-Promise",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Async"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
           "description": "Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.",
           "title": "gm-core"
         },
@@ -640,19 +698,6 @@
           "children": [],
           "description": "Easing function similar to lerp().",
           "title": "Twerp"
-        },
-        {
-          "children": [],
-          "description": "Asynchronous functions for GameMaker.",
-          "title": "Coroutines",
-          "repo_info": {
-            "archived": false,
-            "language": "Game Maker Language",
-            "last_commit": "2025-06-29T13:00:27Z",
-            "owner": "JujuAdams",
-            "repo": "Coroutines",
-            "stars": 84
-          }
         },
         {
           "children": [],
@@ -858,19 +903,6 @@
         },
         {
           "children": [],
-          "description": "A proof of concept for multiprocessing.",
-          "title": "GML-Multiprocessing",
-          "repo_info": {
-            "archived": false,
-            "language": "Game Maker Language",
-            "last_commit": "2025-10-09T02:30:28Z",
-            "owner": "tinkerer-red",
-            "repo": "GML-Multiprocessing",
-            "stars": 1
-          }
-        },
-        {
-          "children": [],
           "description": "Centralized and persistent live configs for seamless game tuning and balancing.",
           "title": "Figgy",
           "repo_info": {
@@ -993,7 +1025,7 @@
             "last_commit": "2026-05-10T03:58:45Z",
             "owner": "tinkerer-red",
             "repo": "GMLC",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -1496,10 +1528,28 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-08T21:54:45Z",
+            "last_commit": "2026-05-10T21:35:12Z",
             "owner": "JujuAdams",
             "repo": "Bento",
             "stars": 51
+          }
+        },
+        {
+          "children": [],
+          "description": "Highly flexible, interactable books.",
+          "title": "InteractiveBooks"
+        },
+        {
+          "children": [],
+          "description": "Simple book rendering framework.",
+          "title": "SimpleBook",
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-05-07T15:11:14Z",
+            "owner": "Gizmo199",
+            "repo": "SimpleBook",
+            "stars": 8
           }
         }
       ],
@@ -1544,7 +1594,7 @@
             "last_commit": "2026-05-08T18:15:37Z",
             "owner": "tabularelf",
             "repo": "lexicon",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -1726,7 +1776,7 @@
             "last_commit": "2026-01-11T18:53:02Z",
             "owner": "bscotch",
             "repo": "stitch",
-            "stars": 154
+            "stars": 155
           }
         },
         {
@@ -1767,7 +1817,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-10T04:47:14Z",
+            "last_commit": "2026-05-11T02:13:28Z",
             "owner": "tabularelf",
             "repo": "Collage",
             "stars": 29
@@ -2301,7 +2351,7 @@
             "last_commit": "2024-10-16T09:12:09Z",
             "owner": "coldrockgames",
             "repo": "gml-outline-shader-drawer",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -2379,10 +2429,10 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-09T03:31:17Z",
+            "last_commit": "2026-05-10T17:45:26Z",
             "owner": "blueburncz",
             "repo": "BBMOD",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -3249,7 +3299,7 @@
             "last_commit": "2026-03-21T00:45:34Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 2981
+            "stars": 2983
           }
         }
       ],
@@ -3267,7 +3317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:39:33.200Z",
+    "last_updated": "2026-05-11T06:00:53.717Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "source_repository": "v1nvn/enhansome-gamemaker",
     "source_repository_description": null,
