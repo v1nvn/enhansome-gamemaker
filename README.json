@@ -602,7 +602,7 @@
             "last_commit": "2025-11-27T16:35:17Z",
             "owner": "tinkerer-red",
             "repo": "GML-Promise",
-            "stars": 6
+            "stars": 7
           }
         }
       ],
@@ -1025,7 +1025,7 @@
             "last_commit": "2026-05-10T03:58:45Z",
             "owner": "tinkerer-red",
             "repo": "GMLC",
-            "stars": 13
+            "stars": 14
           }
         },
         {
@@ -1549,7 +1549,7 @@
             "last_commit": "2026-05-07T15:11:14Z",
             "owner": "Gizmo199",
             "repo": "SimpleBook",
-            "stars": 8
+            "stars": 9
           }
         }
       ],
@@ -3185,7 +3185,7 @@
             "last_commit": "2026-03-30T18:49:02Z",
             "owner": "CataclysmicStudios",
             "repo": "Tome",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -3299,7 +3299,7 @@
             "last_commit": "2026-03-21T00:45:34Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 2983
+            "stars": 2985
           }
         }
       ],
@@ -3317,7 +3317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T06:00:53.717Z",
+    "last_updated": "2026-05-12T05:40:28.357Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "source_repository": "v1nvn/enhansome-gamemaker",
     "source_repository_description": null,
