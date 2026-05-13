@@ -869,7 +869,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-10T03:05:41Z",
+            "last_commit": "2026-05-12T09:31:17Z",
             "owner": "katsaii",
             "repo": "catspeak-lang",
             "stars": 124
@@ -961,7 +961,7 @@
             "last_commit": "2026-04-14T11:15:32Z",
             "owner": "YellowAfterlife",
             "repo": "GMEdit",
-            "stars": 366
+            "stars": 365
           }
         },
         {
@@ -1168,7 +1168,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-02-27T19:48:33Z",
+            "last_commit": "2026-05-12T23:34:22Z",
             "owner": "EttyKitty",
             "repo": "Gobo",
             "stars": 0
@@ -1332,7 +1332,7 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-05-05T21:15:31Z",
+            "last_commit": "2026-05-13T04:50:09Z",
             "owner": "FaultyFunctions",
             "repo": "Crochet",
             "stars": 106
@@ -1528,7 +1528,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-10T21:35:12Z",
+            "last_commit": "2026-05-12T22:17:12Z",
             "owner": "JujuAdams",
             "repo": "Bento",
             "stars": 51
@@ -2097,7 +2097,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-07T19:57:29Z",
+            "last_commit": "2026-05-12T12:30:05Z",
             "owner": "glebtsereteli",
             "repo": "GMRoomLoader",
             "stars": 112
@@ -3182,7 +3182,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-03-30T18:49:02Z",
+            "last_commit": "2026-05-12T14:12:25Z",
             "owner": "CataclysmicStudios",
             "repo": "Tome",
             "stars": 13
@@ -3299,7 +3299,7 @@
             "last_commit": "2026-03-21T00:45:34Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 2985
+            "stars": 2987
           }
         }
       ],
@@ -3317,7 +3317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:40:28.357Z",
+    "last_updated": "2026-05-13T05:51:27.055Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "source_repository": "v1nvn/enhansome-gamemaker",
     "source_repository_description": null,
