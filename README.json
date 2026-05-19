@@ -869,7 +869,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-17T22:05:36Z",
+            "last_commit": "2026-05-19T00:02:39Z",
             "owner": "katsaii",
             "repo": "catspeak-lang",
             "stars": 124
@@ -1168,9 +1168,9 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-17T20:59:03Z",
+            "last_commit": "2026-05-19T00:00:18Z",
             "owner": "EttyKitty",
-            "repo": "Gobo",
+            "repo": "GoboCat",
             "stars": 0
           }
         },
@@ -1291,7 +1291,7 @@
             "last_commit": "2026-05-02T08:47:48Z",
             "owner": "JujuAdams",
             "repo": "Scribble",
-            "stars": 407
+            "stars": 408
           }
         },
         {
@@ -3317,7 +3317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:17:01.264Z",
+    "last_updated": "2026-05-19T06:11:07.263Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "source_repository": "v1nvn/enhansome-gamemaker",
     "source_repository_description": null,
