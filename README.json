@@ -1528,7 +1528,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-16T21:00:20Z",
+            "last_commit": "2026-05-19T17:35:42Z",
             "owner": "JujuAdams",
             "repo": "Bento",
             "stars": 51
@@ -2097,7 +2097,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-05-12T12:30:05Z",
+            "last_commit": "2026-05-20T01:41:38Z",
             "owner": "glebtsereteli",
             "repo": "GMRoomLoader",
             "stars": 113
@@ -3299,7 +3299,7 @@
             "last_commit": "2026-03-21T00:45:34Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 2996
+            "stars": 2999
           }
         }
       ],
@@ -3317,7 +3317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:11:07.263Z",
+    "last_updated": "2026-05-20T06:10:48.930Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "source_repository": "v1nvn/enhansome-gamemaker",
     "source_repository_description": null,
