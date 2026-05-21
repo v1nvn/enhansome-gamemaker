@@ -1332,7 +1332,7 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-05-17T02:20:35Z",
+            "last_commit": "2026-05-21T05:13:33Z",
             "owner": "FaultyFunctions",
             "repo": "Crochet",
             "stars": 107
@@ -1549,7 +1549,7 @@
             "last_commit": "2026-05-07T15:11:14Z",
             "owner": "Gizmo199",
             "repo": "SimpleBook",
-            "stars": 9
+            "stars": 10
           }
         }
       ],
@@ -2893,7 +2893,7 @@
             "last_commit": "2025-06-29T15:46:31Z",
             "owner": "sohomsahaun",
             "repo": "SnowState",
-            "stars": 172
+            "stars": 173
           }
         },
         {
@@ -3299,7 +3299,7 @@
             "last_commit": "2026-03-21T00:45:34Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 2999
+            "stars": 3000
           }
         }
       ],
@@ -3317,7 +3317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:10:48.930Z",
+    "last_updated": "2026-05-21T06:12:50.308Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "source_repository": "v1nvn/enhansome-gamemaker",
     "source_repository_description": null,
